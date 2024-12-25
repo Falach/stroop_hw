@@ -2,6 +2,9 @@
 # Week 7
 # assignment by Rotem Falach, id 204271258
 
+# I wrote this code for homework in R course a week ago
+# we learned about loops, and analyzed subjects data of stroop task 
+
 # number of subjects
 raw = load("RCourse/raw_data.R")
 

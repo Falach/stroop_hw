@@ -2,6 +2,9 @@
 # Week 7
 # assignment by Rotem Falach, id 204271258
 
+# I wrote this code for homework in R course a week ago
+# we learned about loops, and analyzed subjects data of stroop task 
+
 # read data
 files = dir(path="./RCourse/stroop_data", full.names = TRUE)
 df = data.frame()
